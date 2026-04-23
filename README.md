@@ -1,4 +1,4 @@
-# FixIt Hub: Equitably Routing Civic Infrastructure 🚀
+# Civicflow: Equitably Routing Civic Infrastructure 🚀
 
 **Live Prototype:** [https://fixithub-5fe6e.web.app](https://fixithub-5fe6e.web.app)
 
